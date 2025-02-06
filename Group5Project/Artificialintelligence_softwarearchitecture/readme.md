@@ -2,7 +2,8 @@
 Welcome to the Fashion MNIST model training project! This repository contains scripts for training and evaluating a model on the Fashion MNIST dataset, as well as exporting the trained model for future use.
 
 📂 Project Structure
-your_project/
+
+Artificialintelligence_softwarearchitecture/
 
 Dockerfile
 
