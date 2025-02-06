@@ -3,6 +3,7 @@ Welcome to the Fashion MNIST model training project! This repository contains sc
 
 📂 Project Structure
 your_project/
+
 │
 ├── Dockerfile
 ├── requirements.txt
