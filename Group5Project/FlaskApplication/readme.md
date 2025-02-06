@@ -2,6 +2,7 @@
 Welcome to the Flask web application that integrates the trained model for the Fashion MNIST dataset. This project provides a simple interface to interact with the model and make predictions.
 
 📂 Project Structure
+
 FlaskApplication/
 
 app.py # Main Flask application
