@@ -3,19 +3,18 @@ Welcome to the Fashion MNIST model training project! This repository contains sc
 
 📂 Project Structure
 your_project/
-│
-├── Dockerfile
-├── requirements.txt
-├── main.py # Main entry point for training and testing
-├── evaluate.py # Script for evaluating the model
-├── data_loader.py # Data loading and preprocessing
-├── train.py # Script for training the model
-├── model.py # Model architecture definition
-├── data/ # Directory containing the dataset PLEASE NOTE THE TRAINING DATASETS HAVE BEEN REMOVED DUE TO THEIR LARGE FILE SIZE
-│ ├── fashion-mnist_train.csv
-│ └── fashion-mnist_test.csv
-├── models/ # Directory to save trained models
-└── requirements.txt
+Dockerfile
+requirements.txt
+main.py # Main entry point for training and testing
+evaluate.py # Script for evaluating the model
+data_loader.py # Data loading and preprocessing
+train.py # Script for training the model
+model.py # Model architecture definition
+data/ # Directory containing the dataset PLEASE NOTE THE TRAINING DATASETS HAVE BEEN REMOVED DUE TO THEIR LARGE FILE SIZE
+  fashion-mnist_train.csv
+  fashion-mnist_test.csv
+models/ # Directory to save trained models
+  requirements.txt
 
 📦 Requirements
 To run this project, you need to install the following dependencies. You can do this using the provided requirements.txt file.
