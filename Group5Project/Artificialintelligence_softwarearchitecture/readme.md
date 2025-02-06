@@ -51,7 +51,4 @@ After training, you can export the model for future use. This can be done in the
 🎉 Contributing
 Feel free to fork this repository and submit pull requests. Contributions are welcome!
 
-📧 Contact
-For any questions or support, please reach out to your_email@example.com.
-
 🎉 Happy Coding! 🎉
