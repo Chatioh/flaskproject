@@ -31,21 +31,37 @@ models/ # Directory to save trained models
 📦 Requirements
 To run this project, you need to install the following dependencies. You can do this using the provided requirements.txt file.
 
+
 🐍 Python Packages
+
 pandas
+
 numpy
+
 tensorflow
+
+
 🚀 Getting Started
+
 Clone the repository.
+
 Build the Docker Image.
+
 Run the Docker Container.
+
+
 🏋️‍♂️ Training the Model
+
 To train the model, run the training script. This will read the training data, train the model, and save it in the models directory.
 
+
 🔍 Evaluating the Model
+
 To evaluate the trained model on the test dataset, run the evaluation script. This will output the model's performance metrics.
 
+
 📦 Exporting the Model
+
 After training, you can export the model for future use. This can be done in the model.py file or through specific export scripts you set up.
 
 🎉 Contributing
