@@ -19,10 +19,13 @@ train.py # Script for training the model
 model.py # Model architecture definition
 
 data/ # Directory containing the dataset PLEASE NOTE THE TRAINING DATASETS HAVE BEEN REMOVED DUE TO THEIR LARGE FILE SIZE
+  
   fashion-mnist_train.csv
+  
   fashion-mnist_test.csv
 
 models/ # Directory to save trained models
+  
   requirements.txt
 
 📦 Requirements
